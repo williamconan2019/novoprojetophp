@@ -2,7 +2,7 @@
 
 
 
-echo "Olá mundo!";
+echo "Hello Word!";
 
 
 ?>
